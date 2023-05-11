@@ -6,4 +6,4 @@
 
 ## Instructions 
 - Note: To use it yourself all you've to do is maintain a .json file for your account which you can download from google cloud console 
-- After downloading you've to specify the file name in line 102 which is maintained by variable "SERVICE_ACCOUNT_FILE"
+- After downloading you've to specify the file name in line 102 of `app.py` which is maintained by variable "SERVICE_ACCOUNT_FILE"
